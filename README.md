@@ -1,5 +1,5 @@
-# Pewlett-Hackard
-Module 7
+# Mapping Earthquakes
+Module 13
 
 ## Overview of the Analysis
 
